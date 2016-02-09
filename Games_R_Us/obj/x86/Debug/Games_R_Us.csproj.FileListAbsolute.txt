@@ -1,0 +1,285 @@
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+c:\users\dn2008714\documents\visual studio 2010\Projects\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\dn2008714\Desktop\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\new\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\New folder\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\New folder\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\George\Desktop\Games_R_Us3\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Minh\Desktop\Games_R_Us5-71056\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Minh\Desktop\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\hoangminh\Desktop\Games_R_Us_CurrentlyWorking_Original\Games_R_Us_CurrentlyWorking\Games_R_Us5-71056\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Minh\Desktop\Games_R_Us_3_00PM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Minh\Desktop\Games_R_Us_12AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Minh\Desktop\Games_R_Us_230AM\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\George\Downloads\Games_R_Us_Sunday5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dn2008714\Desktop\Games_R_Us_SundayGeorge5_12\Games_R_Us_Sunday5_12\Games_R_Us\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013(1)\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\george.gonzalez08\Downloads\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013GG3\Games_R_Us_5_13_2013GG2\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\jeffkarlin\Desktop\Games_R_Us_5_13_2013GG3\Games_R_Us_5_13_2013GG2\Games_R_Us_5_13_2013GG\Games_R_Us_5_13_2013\Games_R_Us\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\george.gonzalez08\Desktop\Games_R_Us_816pm\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dn2008714\Desktop\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dn2008714\Desktop\Daniel Nguyen\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.exe
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.pdb
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+C:\Users\Minh\Desktop\Games_R_Us_DanielUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.exe
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.pdb
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.exe
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\bin\Debug\Games_R_Us.pdb
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.csprojResolveAssemblyReference.cache
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCreateAccount.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmSelectGames.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmYourCart.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmCheckout.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmReviewOrder.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.frmThankYou.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.Properties.Resources.resources
+D:\Programming Project\C#\Games_R_Us_MinhUpdated\Games_R_Us_MinhUpdated\Games_R_Us_DanielUpdated\Games_R_Us_816pm\Games_R_Us\obj\x86\Debug\Games_R_Us.csproj.GenerateResource.Cache
